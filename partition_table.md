@@ -2,7 +2,7 @@
 
 ## Range Partition
 특정 컬럼 value에 따라 다른 파티션에 저장
-The data is distributed based on a range of values.
+```The data is distributed based on a range of values.```
 
  ex) 날짜 컬럼값을 월단위로 나눠 월별로 파티션에 따로 저장 가능
  
